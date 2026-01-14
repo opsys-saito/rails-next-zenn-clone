@@ -1,0 +1,6 @@
+{
+  "ipynb.pasteImagesAsAttachments.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+}
